@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Agentic frameworks<br>👯 I’m looking to collaborate on Generative AI and Vision projects.<br>💬 Talk to me about how we can get humanity to Type 1 civilization in our lifetimes.
+🌱 I’m currently learning to deploy stuff to the real world<br>👯 I’m looking to collaborate on ML, Gen AI and Backend stuff.<br>💬 Talk to me about how we can get humanity to Type 1 civilization in our lifetimes.
 
 
 # 💻 Tech Stack:
